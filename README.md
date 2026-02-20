@@ -1,8 +1,10 @@
 # SP0525-Major_Project
 Reflectra
 
-Reflectra is a mobile UI/UX design project based on productivity and self reflection.  
-The app helps users track their daily activities, check burnout risk, and analyze mood vs productivity.
+Reflectra is a mobile UI/UX design project focused on productivity and time management.
+The app helps users track daily activities, monitor burnout risk, and analyze mood vs productivity trends.
+It includes features like time goal setting, focus sessions, and a reward system to encourage consistency.
+Reflectra is designed to help users stay organized, improve efficiency, and maintain a balanced workflow.
 
 View only link for figma file : https://www.figma.com/design/kwlp09vLUBsEM1KkBzynPx/Untitled?node-id=0-1&t=ptexLOxdAYw2EWeq-1
 
@@ -16,17 +18,6 @@ Main features:
 - Rewards system
 
 This project is designed using Figma.
-
-Team Members & Contributions
-- Krishna– Designed the first user experience of the app including Splash and Welcome screens, along with Smart Insights and Focus Session to improve engagement.
-
-- Renu– Created the visual identity of Reflectra by designing the logo, color theme, Sign Up flow, Reward page, and Settings interface.
-
-- Manasvi– Developed the core analysis features including Burnout Risk, Mood vs Productivity, Suggestions, Time Goal system, and Notification preferences.
-
-- Piyush– Built the main structure of the app through the Dashboard, Add Activity feature, and Profile screen.
-
-- Lakshya– Designed the Timeline system to visually track daily activities and connected it smoothly with the Dashboard and activity flow.  
 
 Tools Used
 - Figma
