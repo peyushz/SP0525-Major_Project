@@ -4,7 +4,9 @@ Reflectra – Productivity & Time Intelligence App
 Reflectra is a mobile UI/UX design project focused on improving productivity and time management through structured self-reflection, behavioral insights, and goal-oriented workflows.
 
 View only link for major project file:https://www.figma.com/design/kwlp09vLUBsEM1KkBzynPx/Untitled?node-id=0-1&t=ptexLOxdAYw2EWeq-1
+
 View only link for asset file:https://www.figma.com/design/1DFy4WEIIjnD7mT4dS9s47/Untitled?node-id=7-25&t=JX9nisujcUYMZaUM-1
+
 It is designed for people who often feel:
 “Where did my whole day go?”
 “Why am I busy but not productive?”
